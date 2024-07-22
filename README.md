@@ -46,13 +46,3 @@ Access the application in your web browser at http://localhost:3000.
 
 [MIT](https://github.com/notenationio/N20BulkSender/blob/main/LICENSE)
 
-
-## Support and Donation
-
-If you find this project helpful and you would like to support its continued development, feel free to make a donation through one of the following methods. Your support is a tremendous encouragement for us!
-
-You can also donate N20 Token using the following cryptocurrency addresses:
-
-- BTC: bc1pxdh2tzxdt5kvcpsppg0e3vh3z7jzhksqwcuyg084uwj0n8ktgv2s4s2kh6
-<img src="https://github.com/notenationio/N20BulkSender/blob/main/btc_qrcode.jpg" width="300" >
-Thank you to every supporter for your contributions!
