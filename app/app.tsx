@@ -285,7 +285,7 @@ function App() {
                     id="address"
                     rows={20}
                     className="w-full border-0 bg-white px-0 font-mono text-sm text-gray-900 focus:ring-0 dark:bg-gray-800 dark:text-white dark:placeholder-gray-400"
-                    placeholder="Enter address and amount, separate with comma."
+                    placeholder="Enter address and amount, separate with comma. Maximum recipients per Bulk Send: 40. "
                     required
                   ></textarea>
                 </div>
