@@ -2,18 +2,14 @@
 const siteMetadata = {
   title: 'N20 Token Bulk Sender',
   author: 'NoteNation.io',
-  headerTitle: 'Bulk Sender',
+  headerTitle: 'Note Nation N20 Bulk Sender',
   description: 'Send N20 tokens to multiple addresses',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://your-site.com',
+  siteUrl: 'http://notenation.io',
   siteRepo: 'https://github.com/notenationio/N20BulkSender',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
   github: 'https://github.com/notenationio/N20BulkSender',
-  x: 'https://twitter.com/x',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
